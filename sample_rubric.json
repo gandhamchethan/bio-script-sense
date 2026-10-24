@@ -1,0 +1,58 @@
+{
+    "1": {
+        "max_marks": 1,
+        "criteria": "Award 1 mark only if the student selects 'Coulomb'. No partial marks."
+    },
+    "2": {
+        "max_marks": 1,
+        "criteria": "Award full marks if the student states that a fuse protects electrical circuits/appliances by melting during excess current or short circuit. Award 0.5 marks if only one purpose is mentioned."
+    },
+    "3": {
+        "max_marks": 2,
+        "criteria": "Award full marks if the student mentions length, cross-sectional area (or diameter), material/resistivity, and temperature. Deduct 0.5 marks for each missing factor."
+    },
+    "4": {
+        "max_marks": 3,
+        "criteria": "Award full marks if the student correctly uses ρ = RA/L, converts diameter into radius, calculates area correctly, and obtains approximately 1.84 × 10⁻⁶ Ω·m. Deduct marks for calculation or unit conversion errors."
+    },
+    "5": {
+        "max_marks": 1,
+        "criteria": "Award 1 mark only for 'Displacement reaction'."
+    },
+    "6": {
+        "max_marks": 1,
+        "criteria": "Award 1 mark only for 'Nitrogen'."
+    },
+    "7": {
+        "max_marks": 1,
+        "criteria": "Award 1 mark only for 'Transport of food'."
+    },
+    "8": {
+        "max_marks": 1,
+        "criteria": "Award 1 mark only for 'Cytoplasm'."
+    },
+    "9": {
+        "max_marks": 1,
+        "criteria": "Award 1 mark only for 'Aorta'."
+    },
+    "10": {
+        "max_marks": 2,
+        "criteria": "Award full marks if any four valid observations of a chemical reaction are mentioned (colour change, gas evolution, precipitate formation, temperature change, change in smell/state). Award 0.5 marks per correct observation."
+    },
+    "11.a": {
+        "max_marks": 2,
+        "criteria": "Award full marks for the balanced equation: 2H₂ + O₂ → 2H₂O. Deduct 1 mark if balancing is incorrect."
+    },
+    "11.b": {
+        "max_marks": 2,
+        "criteria": "Award full marks for the balanced equation: 2Na + 2H₂O → 2NaOH + H₂. Deduct 1 mark if balancing is incorrect."
+    },
+    "12": {
+        "max_marks": 2,
+        "criteria": "Award full marks if the student mentions all three events: absorption of light by chlorophyll, conversion of light energy with splitting of water, and reduction of CO₂ to carbohydrates. Award partial marks for any two correct events."
+    },
+    "13": {
+        "max_marks": 2,
+        "criteria": "Award full marks if at least four correct differences between arteries and veins are mentioned (direction of blood flow, wall thickness, pressure, valves, type of blood). Award 0.5 marks per correct difference."
+    }
+}

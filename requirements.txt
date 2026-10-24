@@ -1,0 +1,12 @@
+flask
+flask-cors
+werkzeug
+google-generativeai
+transformers
+torch
+sentence-transformers
+pillow
+python-dotenv
+openai
+requests
+pytesseract

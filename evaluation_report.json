@@ -1,0 +1,193 @@
+{
+    "final_score": "15.400000000000002/17.0",
+    "percentage": 90.59,
+    "section_breakdown": {
+        "1": {
+            "awarded_marks": 1.0,
+            "feedback": "Excellent! Your answer correctly identifies Python.",
+            "semantic_score": 0.83,
+            "student_answer": "Python",
+            "genetic_optimization": {
+                "raw_semantic_score": 0.9324,
+                "optimized_semantic_score": 0.8269,
+                "optimized_mark": 0.73,
+                "fitness": -0.1315,
+                "weights": {
+                    "scale": 0.9914,
+                    "bias": -0.1057,
+                    "curve": 3.127
+                }
+            }
+        },
+        "2": {
+            "awarded_marks": 1.8,
+            "feedback": "You provided a good explanation using the 'container' metaphor and a clear example. To achieve full marks, ensure you also mention that a variable's value can be *changed* during program execution, and more explicitly refer to it as a named identifier or memory reference.",
+            "semantic_score": 0.92,
+            "student_answer": "A variable is like a containers used to store data in a program\nFor example: age = 20 (stores the value 20 in a variable named age. The value can be used",
+            "genetic_optimization": {
+                "raw_semantic_score": 0.9786,
+                "optimized_semantic_score": 0.9187,
+                "optimized_mark": 1.89,
+                "fitness": -0.2271,
+                "weights": {
+                    "scale": 0.9949,
+                    "bias": -0.2933,
+                    "curve": 4.8497
+                }
+            }
+        },
+        "3": {
+            "awarded_marks": 2.0,
+            "feedback": "Excellent answer! You correctly identified that both lists and tuples are ordered, and clearly explained the key difference in their mutability.",
+            "semantic_score": 0.92,
+            "student_answer": "A list is a collection of items that can be changed after it is created. A tuple is also a collection of items but its elements cannot be changed after creation. Both maintain the order of their elements.",
+            "genetic_optimization": {
+                "raw_semantic_score": 0.9861,
+                "optimized_semantic_score": 0.9187,
+                "optimized_mark": 1.89,
+                "fitness": -0.2377,
+                "weights": {
+                    "scale": 0.9949,
+                    "bias": -0.2933,
+                    "curve": 4.8497
+                }
+            }
+        },
+        "4": {
+            "awarded_marks": 2.0,
+            "feedback": "You correctly identified the smallest number (3), the sum (48), and the average (9.6). However, the largest number from the given list [12, 5, 8, 20, 3] was 20, not 80.",
+            "semantic_score": 0.94,
+            "student_answer": "Largest number : 80\nSmallest number : 3\nSum : 48\nAvg : 9.6",
+            "genetic_optimization": {
+                "raw_semantic_score": 0.9788,
+                "optimized_semantic_score": 0.9389,
+                "optimized_mark": 2.32,
+                "fitness": -0.2584,
+                "weights": {
+                    "scale": 0.9906,
+                    "bias": -0.1208,
+                    "curve": 5.4647
+                }
+            }
+        },
+        "5": {
+            "awarded_marks": 1.0,
+            "feedback": "Excellent! Your answer is perfectly correct, matching the key concept required.",
+            "semantic_score": 0.83,
+            "student_answer": "Queue",
+            "genetic_optimization": {
+                "raw_semantic_score": 0.9439,
+                "optimized_semantic_score": 0.8269,
+                "optimized_mark": 0.73,
+                "fitness": -0.1396,
+                "weights": {
+                    "scale": 0.9914,
+                    "bias": -0.0942,
+                    "curve": 3.127
+                }
+            }
+        },
+        "6": {
+            "awarded_marks": 1.0,
+            "feedback": "Excellent! Your answer 'Primary Key' is correct.",
+            "semantic_score": 0.83,
+            "student_answer": "Primary Key",
+            "genetic_optimization": {
+                "raw_semantic_score": 0.9591,
+                "optimized_semantic_score": 0.8278,
+                "optimized_mark": 0.78,
+                "fitness": -0.1491,
+                "weights": {
+                    "scale": 0.9989,
+                    "bias": -0.192,
+                    "curve": 3.1402
+                }
+            }
+        },
+        "7": {
+            "awarded_marks": 0.8,
+            "feedback": "Evaluated based on semantic similarity criteria.",
+            "semantic_score": 0.83,
+            "student_answer": "Sorting means arranging data in a particular order.\nex: Ascending or descending",
+            "genetic_optimization": {
+                "raw_semantic_score": 0.9879,
+                "optimized_semantic_score": 0.8278,
+                "optimized_mark": 0.84,
+                "fitness": -0.1692,
+                "weights": {
+                    "scale": 0.9989,
+                    "bias": -0.192,
+                    "curve": 3.1402
+                }
+            }
+        },
+        "8": {
+            "awarded_marks": 0.8,
+            "feedback": "Evaluated based on semantic similarity criteria.",
+            "semantic_score": 0.83,
+            "student_answer": "A function is a reusable block of code designed to perform a particular task. Instead of writing the same code repeatedly we can define a function and call it whenever needed.",
+            "genetic_optimization": {
+                "raw_semantic_score": 0.9927,
+                "optimized_semantic_score": 0.8278,
+                "optimized_mark": 0.88,
+                "fitness": -0.1726,
+                "weights": {
+                    "scale": 0.9989,
+                    "bias": -0.192,
+                    "curve": 3.1402
+                }
+            }
+        },
+        "9": {
+            "awarded_marks": 1.0,
+            "feedback": "Correct! You have accurately identified the time complexity as O(n).",
+            "semantic_score": 0.83,
+            "student_answer": "O(n)",
+            "genetic_optimization": {
+                "raw_semantic_score": 0.9713,
+                "optimized_semantic_score": 0.8278,
+                "optimized_mark": 0.73,
+                "fitness": -0.1576,
+                "weights": {
+                    "scale": 0.9989,
+                    "bias": -0.192,
+                    "curve": 3.1402
+                }
+            }
+        },
+        "10": {
+            "awarded_marks": 2.0,
+            "feedback": "Excellent answer! You have correctly identified all the key advantages of database normalization, including reducing duplication, maintaining data consistency, preventing anomalies, and organizing data effectively.",
+            "semantic_score": 0.92,
+            "student_answer": "• reduce duplication (unnecessary duplication)\n• Helps maintain data consistency\n• Prevents insertion update and deletion anomalies\n• Organizes data into related tables making the database easier to manage",
+            "genetic_optimization": {
+                "raw_semantic_score": 0.9882,
+                "optimized_semantic_score": 0.9187,
+                "optimized_mark": 1.89,
+                "fitness": -0.2406,
+                "weights": {
+                    "scale": 0.9949,
+                    "bias": -0.2933,
+                    "curve": 4.8497
+                }
+            }
+        },
+        "12": {
+            "awarded_marks": 2.0,
+            "feedback": "Excellent answer! You accurately explained how binary search works on a sorted list, comparing the target with the middle element and narrowing the search space. You also correctly stated its time complexity as O(log n).",
+            "semantic_score": 0.92,
+            "student_answer": "Binary Search is a searching technique used a sorted list. It first checks the middle element and compares it with the value being searched for. If the value is smaller, it searches the left. If it is larger it searches the right half. This process continues until the element is found or no elements remain to search.\nTime complexity\nO (log n)",
+            "genetic_optimization": {
+                "raw_semantic_score": 0.9946,
+                "optimized_semantic_score": 0.9242,
+                "optimized_mark": 1.89,
+                "fitness": -0.2488,
+                "weights": {
+                    "scale": 1.001,
+                    "bias": -0.2187,
+                    "curve": 5.0005
+                }
+            }
+        }
+    }
+}
